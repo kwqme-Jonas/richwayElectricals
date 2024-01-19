@@ -56,7 +56,7 @@ function Navbar() {
                     onClick={toggleMenu}
                     className='text-neutraDlGrey focus:outline-none focus:text-orange-400'>
                         {
-                            isMenuOpen ? (<FaXmark  classname='h-6 w-6 text-neutraDlGrey'/>) : (<FaBars className='h-6 w-6 text-neutraDlGrey'/>)
+                            isMenuOpen ? (<FaXmark  className='h-6 w-6 text-neutraDlGrey'/>) : (<FaBars className='h-6 w-6 text-neutraDlGrey'/>)
                         }
                     </button>
                  </div>
