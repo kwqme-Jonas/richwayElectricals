@@ -62,6 +62,13 @@ function Navbar() {
                  </div>
             </div>
         </nav>
+
+        {/*nav items for mobile*/}
+        <div className={`space-y-4 px-4 mt-16 py-7 bg-orange-400 ${ isMenuOpen ? "block fixed top-0 right-0 left-0" : "hidden"}`}>
+          {
+             navItems.map(({link, path}) => <Link to={path} spy={true} smooth={true} offset={-100} key={path} className='block text-base text-gray-700 hover:text-white first:font-medium cursor-pointer'>{link}</Link>)
+          }
+        </div>
     </header>
   )
 }
