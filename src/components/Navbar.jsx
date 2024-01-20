@@ -31,8 +31,8 @@ function Navbar() {
   //navbar items array
   const navItems = [
     {link: "Home", path: "home"},
-    {link: "services", path: "services"},
     {link: "About", path: "about"},
+    {link: "services", path: "services"},
     {link: "Contact", path: "contact"},
   ];
 

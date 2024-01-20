@@ -16,9 +16,9 @@ function Home() {
                  </div>
                  {/* hero text*/}
                  <div className='md:w-1/2'>
-                    <h1 className='text-4xl font-semibold text-neutraDlGrey md:w-3/4 leading-snug'>Welcome To RichwayElectricals <span className='text-orange-400 leading-snug'>Your Power Company</span></h1>
+                    <h1 className='text-4xl font-semibold text-neutraDlGrey md:w-3/4 leading-snug'>Welcome To RichwayElectricals <span className='text-orange-400 leading-snug lg:top-2'>Powering Tomorrow's World</span></h1>
                     <p className='text-gray-400 text-base mb-8'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Empowering Tomorrow, Illuminating Today: Your Source for Cutting-Edge Electrical Solutions
                     </p>
                  </div>
                 </div>
