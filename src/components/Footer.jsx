@@ -1,6 +1,6 @@
 import React from 'react'
 import { Footer } from 'flowbite-react';
-import logo from '../assets/logo.png';
+
 
 function footer() {
   return (
@@ -9,8 +9,6 @@ function footer() {
         <div className="w-full justify-between sm:flex sm:items-center sm:justify-between">
           <Footer.Brand
             href="https://flowbite.com"
-            src={logo}
-            alt="Flowbite Logo"
             name="RichwayElectricals"
           />
           <Footer.LinkGroup>
