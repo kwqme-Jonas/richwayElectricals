@@ -1,5 +1,5 @@
 import React from 'react';
-import Banner4 from '../assets/Banner4.jpg';
+import banner4 from '../assets/banner4.jpg';
 
 function about() {
     
@@ -10,7 +10,7 @@ function about() {
             <div className='w-full px-4 mb-10 lg:w-1/2 lg:mb-0'>
               <div className='relative lg:max-w-md'>
                 <img className='relative z-10 object-cover w-full rounded-xl h-96'
-                src={Banner4} alt="aboutimage" />
+                src={banner4} alt="aboutimage" />
                 <div className='absolute bottom-0 right-0 z-10 p-8 bg-white border-4 border-orange-400 rounded shadow lg:-mb-8 lg:-mr-11 sm:p-8'>
                   <p className='text-md font-semibold md:w-72'>
                   <svg xmlns="http://www.w3.org/2000/svg" fill="orange" className='absolute top-0 left-0 w-10 h-10 text-orange-400 opacity-10'
