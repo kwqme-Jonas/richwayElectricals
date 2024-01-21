@@ -2,13 +2,13 @@ import React from 'react'
 
 function Contact() {
   return (
-    <section className="flex items-center bg-stone-100 lg:h-screen font-poppins  ">
+    <section className="flex items-center bg-stone-100 lg:h-screen font-poppins" id='contact'>
     <div className="justify-center flex-1 max-w-6xl px-4 py-4 mx-auto lg:py-11 md:px-6">
     <div className="mb-10 text-left">
     <h2 className="pb-2 mb-2 text-xl font-bold text-gray-800 md:text-3xl ">
     Let's Stay Connected
     </h2>
-    <p className="text-sm dark:text-gray-400">Connect with <span className='text-orange-400'>RichwayElectricals</span> Where Every Wire Tells a Story of Reliability, Innovation, and Your Electrical Needs Met. 
+    <p className="text-md dark:text-gray-400">Connect with <span className='text-orange-400'>RichwayElectricals</span> Where Every Wire Tells a Story of Reliability, Innovation, and Your Electrical Needs Met. 
     <br />
     Reach Out Today for a Brighter Tomorrow</p>
     </div>

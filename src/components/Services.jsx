@@ -2,7 +2,7 @@ import React from 'react'
 
 function Services() {
   return (
-    <section className="flex items-center justify-center bg-gray-100 lg:h-screen">
+    <section className="flex items-center justify-center bg-gray-100 lg:h-screen" id='services'>
     <div className="px-4 py-20 mx-auto max-w-7xl">
         <div className="max-w-xl mx-auto">
             <div className="text-center ">

@@ -4,12 +4,12 @@ import Banner4 from '../assets/Banner4.jpg';
 function about() {
     
   return (
-      <section className='flex items-center bg-stone-100 xl:h-screen font-poppins'>
+      <section className='flex items-center bg-stone-100 xl:h-screen font-poppins' id='about'>
         <div className='justify-center flex-1 max-w-6xl py-4 mx-auto lg:py-6 md:px-6'>
           <div className='flex flex-wrap '>
             <div className='w-full px-4 mb-10 lg:w-1/2 lg:mb-0'>
               <div className='relative lg:max-w-md'>
-                <img className='relative z-10 object-cover w-full rounded h-full'
+                <img className='relative z-10 object-cover w-full rounded-xl h-96'
                 src={Banner4} alt="aboutimage" />
                 <div className='absolute bottom-0 right-0 z-10 p-8 bg-white border-4 border-orange-400 rounded shadow lg:-mb-8 lg:-mr-11 sm:p-8'>
                   <p className='text-md font-semibold md:w-72'>
