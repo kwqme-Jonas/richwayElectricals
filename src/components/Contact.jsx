@@ -24,7 +24,7 @@ function Contact() {
     </div>
     <h2 className="mb-4 text-xl font-bold leading-9 text-gray-700 md:text-2xl">
     Email</h2>
-    <a href="#" className="text-base font-medium text-gray-500 md:text-lg">RichwayElectricals@gmail.com</a>
+    <a href="#" className="text-base font-medium text-gray-500 md:text-lg">richwayElect@gmail.com</a>
     </div>
     </div>
     <div className="w-full px-4 mb-10 sm:w-1/2">
