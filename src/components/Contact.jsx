@@ -24,7 +24,7 @@ function Contact() {
     </div>
     <h2 className="mb-4 text-xl font-bold leading-9 text-gray-700 md:text-2xl">
     Email</h2>
-    <a href="#" className="text-base font-medium text-gray-500 md:text-lg">ITcompany@gmail.com</a>
+    <a href="#" className="text-base font-medium text-gray-500 md:text-lg">RichwayElectricals@gmail.com</a>
     </div>
     </div>
     <div className="w-full px-4 mb-10 sm:w-1/2">
@@ -36,7 +36,7 @@ function Contact() {
     </div>
     <h2 className="mb-4 text-xl font-bold leading-9 text-gray-700 md:text-2xl ">
     Phone</h2>
-    <a href="#" className="text-base font-medium text-gray-500 md:text-lg">+9876542312</a>
+    <a href="#" className="text-base font-medium text-gray-500 md:text-lg">+233123456789</a>
     </div>
     </div>
     <div className="w-full px-4 mb-10 sm:w-1/2">
@@ -50,7 +50,7 @@ function Contact() {
     <h2 className="mb-4 text-xl font-bold leading-9 text-gray-700 md:text-2xl">
     Office</h2>
     <a href="#" className="text-base font-medium text-gray-500 md:text-lg">
-    Sukedhara, Kathmandu</a>
+    Accra, Tema</a>
     </div>
     </div>
     <div className="w-full px-4 sm:w-1/2">
